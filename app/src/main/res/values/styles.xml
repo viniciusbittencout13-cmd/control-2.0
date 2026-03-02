@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.ControlPlus" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Personalizações globais do tema podem ser adicionadas aqui -->
+    </style>
+</resources>
